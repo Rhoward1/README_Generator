@@ -1,4 +1,5 @@
 
+
 # README_Generator
 
 ## License
@@ -23,12 +24,20 @@
 - ![](./assets/README_Generator.png)
 
 ## Contributors on this Project
-- None other than RHoward1
+- none other than myself RHoward1
 - *[Contribution Guidlines](https://github.com/github/docs/blob/main/CONTRIBUTING.md)*
   
 ## Test Instructions
-- None
-  
-## Contact Information
-- Contact me on Github [RHoward1](https://github.com/RHoward1)
+- none at this time.
+
+## Questions
+
+- If you have any questions about the repo, open an issue or contact me on Github or by Email.
+### Contact Information
+- Github [RHoward1](https://github.com/RHoward1)
   - Email at ryanmhoward.dev@gmail.com
+
+
+## License Statement
+- This application is covered by the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) license.
+- Visit [MIT](https://opensource.org/licenses/MIT) for more information.
